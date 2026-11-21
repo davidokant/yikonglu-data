@@ -1,0 +1,1165 @@
+{
+ "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 原文与古注为公版",
+ "attribution": "一孔录 Yikonglu, https://yikonglu.com",
+ "book": "论语",
+ "pian": "为政",
+ "chapters": [
+  {
+   "chapter": "2.1",
+   "title": "为政以德",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/1.html",
+   "text": "子曰：为政以德，譬如北辰，居其所而众星共之。",
+   "sentences": [
+    "子曰：为政以德，譬如北辰，居其所而众星共之。"
+   ],
+   "baihua": "孔子说：用德来治理政事，就像北极星，安居在它的位置上，众星都环绕着它。",
+   "citations": [
+    {
+     "text": "共，音拱，亦作拱；共，向也；北辰（即北极）",
+     "source": "朱注",
+     "pages": [
+      "23",
+      "24"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "政之为言正也，所以正人之不正也；德之为言得也，行道而有得于心也",
+     "source": "朱注",
+     "pages": [
+      "24"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "北辰，北极，天之枢也；居其所，不动也；言众星四面旋绕而归向之也",
+     "source": "朱注",
+     "pages": [
+      "24"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "为政以德，则无为而天下归之，其象如此",
+     "source": "朱注",
+     "pages": [
+      "24"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "为政以德，然后无为",
+     "source": "朱注引程子",
+     "pages": [
+      "24"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "为政以德，则不动而化，不言而信，无为而成；所守者至简而能御烦，所处者至静而能制动，所务者至寡而能服众",
+     "source": "朱注引范氏",
+     "pages": [
+      "24"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "云為政以德者，此明人君為政教之法也。",
+    "scan_page": "62"
+   }
+  },
+  {
+   "chapter": "2.2",
+   "title": "思无邪",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/2.html",
+   "text": "子曰：诗三百，一言以蔽之，曰：思无邪。",
+   "sentences": [
+    "子曰：诗三百，一言以蔽之，曰：思无邪。"
+   ],
+   "baihua": "孔子说：《诗》三百篇，用一句话来概括，就是：让人的思想不走邪路。",
+   "citations": [
+    {
+     "text": "诗三百十一篇，言三百者，举大数也；蔽，犹盖也",
+     "source": "朱注",
+     "pages": [
+      "24"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "思无邪，鲁颂駉篇之辞",
+     "source": "朱注",
+     "pages": [
+      "24"
+     ],
+     "paraphrase": true
+    },
+    {
+     "text": "凡诗之言，善者可以感发人之善心，恶者可以惩创人之逸志，其用归于使人得其情性之正而已",
+     "source": "朱注",
+     "pages": [
+      "24"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "思无邪者，诚也",
+     "source": "朱注引程子",
+     "pages": [
+      "24"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "学者必务知要，知要则能守约，守约则足以尽博矣。经礼三百，曲礼三千，亦可以一言以蔽之，曰毋不敬",
+     "source": "朱注引范氏",
+     "pages": [
+      "24"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "此章舉詩證為政以德之事也。",
+    "scan_page": "62"
+   }
+  },
+  {
+   "chapter": "2.3",
+   "title": "道之以政",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/3.html",
+   "text": "子曰：道之以政，齐之以刑，民免而无耻；道之以德，齐之以礼，有耻且格。",
+   "sentences": [
+    "子曰：道之以政，齐之以刑，民免而无耻；道之以德，齐之以礼，有耻且格。"
+   ],
+   "baihua": "孔子说：用政令来引导，用刑罚来整齐，百姓只求免于刑罚，却没有羞耻之心；用德来引导，用礼来整齐，百姓有羞耻之心，而且能归于正。",
+   "citations": [
+    {
+     "text": "道，音导，下同；道犹引导，谓先之也；政谓法制禁令也；齐所以一之也",
+     "source": "朱注",
+     "pages": [
+      "24"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "道之而不从者，有刑以一之也；免而无耻，谓苟免刑罚而无所羞愧，盖虽不敢为恶，而为恶之心未尝忘也",
+     "source": "朱注",
+     "pages": [
+      "24",
+      "25"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "礼谓制度品节也；格，至也；言躬行以率之，则民固有所观感而兴起矣，而其浅深厚薄之不一者，又有礼以一之，则民耻于不善，而又有以至于善也；一说，格，正也",
+     "source": "朱注",
+     "pages": [
+      "25"
+     ],
+     "paraphrase": true
+    },
+    {
+     "text": "愚谓政者为治之具，刑者辅治之法，德礼则所以出治之本，而德又礼之本也。此其相为终始，虽不可以偏废，然政刑能使民远罪而已，德礼之效，则有以使民日迁善而不自知",
+     "source": "朱熹“愚谓”",
+     "pages": [
+      "25"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "此章證為政以德所以勝也。",
+    "scan_page": "63"
+   }
+  },
+  {
+   "chapter": "2.4",
+   "title": "吾十有五而志于学",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/4.html",
+   "text": "子曰：吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，不逾矩。",
+   "sentences": [
+    "子曰：吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，不逾矩。"
+   ],
+   "baihua": "孔子说：我十五岁立志于学，三十岁能立得住，四十岁遇事不再疑惑，五十岁懂得天命，六十岁听到什么都能明白，七十岁随心所欲也不越出规矩。",
+   "citations": [
+    {
+     "text": "古者十五而入大学；心之所之谓之志；有以自立，则守之固而无所事志矣；于事物之所当然，皆无所疑",
+     "source": "朱注",
+     "pages": [
+      "25"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "天命，即天道之流行而赋于物者，乃事物所以当然之故也；声入心通，无所违逆",
+     "source": "朱注",
+     "pages": [
+      "25"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "矩，法度之器，所以为方者也；安而行之，不勉而中也",
+     "source": "朱注",
+     "pages": [
+      "26"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "孔子生而知之也，言亦由学而至，所以勉进后人也",
+     "source": "朱注引程子",
+     "pages": [
+      "26"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "孔子自言其进德之序如此者，圣人未必然，但为学者立法，使之盈科而后进，成章而后达耳",
+     "source": "朱注引程子",
+     "pages": [
+      "26"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "愚谓圣人生知安行，固无积累之渐，然其心未尝自谓已至此也。是其日用之间，必有独觉其进而人不及知者。故因其近似以自名，欲学者以是为则而自勉",
+     "source": "朱熹“愚谓”（前后转述）",
+     "pages": [
+      "26"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "此章明孔子隱聖同凡，學有時節，自少迄老皆所以勸物也。",
+    "scan_page": "65"
+   }
+  },
+  {
+   "chapter": "2.5",
+   "title": "孟懿子问孝",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/5.html",
+   "text": "孟懿子问孝。子曰：无违。樊迟御，子告之曰：孟孙问孝于我，我对曰无违。樊迟曰：何谓也？子曰：生，事之以礼；死，葬之以礼，祭之以礼。",
+   "sentences": [
+    "孟懿子问孝。",
+    "子曰：无违。",
+    "樊迟御，子告之曰：孟孙问孝于我，我对曰无违。",
+    "樊迟曰：何谓也？",
+    "子曰：生，事之以礼；死，葬之以礼，祭之以礼。"
+   ],
+   "baihua": "孟懿子问孝。孔子说：不要违背。樊迟给孔子赶车，孔子告诉他：孟孙问我孝，我回答他“不要违背”。樊迟问：这是什么意思？孔子说：父母活着，按礼侍奉；去世了，按礼安葬，按礼祭祀。",
+   "citations": [
+    {
+     "text": "孟懿子，鲁大夫仲孙氏，名何忌；樊迟，孔子弟子，名须；御，为孔子御车也；孟孙，即仲孙也",
+     "source": "朱注",
+     "pages": [
+      "27"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "无违，谓不背于理",
+     "source": "朱注",
+     "pages": [
+      "27"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "夫子以懿子未达而不能问，恐其失指，而以从亲之令为孝，故语樊迟以发之",
+     "source": "朱注",
+     "pages": [
+      "27"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "生事葬祭，事亲之始终具矣；礼，即理之节文也",
+     "source": "朱注",
+     "pages": [
+      "27"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "是时三家僭礼，故夫子以是警之，然语意浑然，又若不专为三家发者",
+     "source": "朱注",
+     "pages": [
+      "27"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "人之欲孝其亲，心虽无穷，而分则有限。得为而不为，与不得为而为之，均于不孝",
+     "source": "朱注引胡氏",
+     "pages": [
+      "27"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "云孟懿子問孝者，孟懿子魯大夫也。",
+    "scan_page": "68"
+   }
+  },
+  {
+   "chapter": "2.6",
+   "title": "孟武伯问孝",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/6.html",
+   "text": "孟武伯问孝。子曰：父母唯其疾之忧。",
+   "sentences": [
+    "孟武伯问孝。",
+    "子曰：父母唯其疾之忧。"
+   ],
+   "baihua": "孟武伯问孝。孔子说：父母只为子女的疾病担忧。（照朱熹：做子女的体会这份心，就要保重自己。）",
+   "citations": [
+    {
+     "text": "武伯，懿子之子，名彘；言父母爱子之心，无所不至，唯恐其有疾病，常以为忧也；人子体此，而以父母之心为心，则凡所以守其身者，自不容于不谨矣",
+     "source": "朱注",
+     "pages": [
+      "27"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "旧说，人子能使父母不以其陷于不义为忧，而独以其疾为忧，乃可谓孝，亦通",
+     "source": "朱注",
+     "pages": [
+      "27",
+      "28"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "云孟武伯問孝者，孟武伯懿子之子也。",
+    "scan_page": "69"
+   }
+  },
+  {
+   "chapter": "2.7",
+   "title": "子游问孝",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/7.html",
+   "text": "子游问孝。子曰：今之孝者，是谓能养。至于犬马，皆能有养；不敬，何以别乎？",
+   "sentences": [
+    "子游问孝。",
+    "子曰：今之孝者，是谓能养。",
+    "至于犬马，皆能有养；不敬，何以别乎？"
+   ],
+   "baihua": "子游问孝。孔子说：现在讲孝，只说能供养父母。可是连狗和马，也都能得到饲养；如果不敬，供养父母和饲养狗马，又有什么分别呢？",
+   "citations": [
+    {
+     "text": "子游，孔子弟子，姓言，名偃；养，谓饮食供奉也；犬马待人而食，亦若养然；言人畜犬马，皆能有以养之，若能养其亲而敬不至，则与养犬马者何异；甚言不敬之罪，所以深警之也",
+     "source": "朱注",
+     "pages": [
+      "28"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "犬以守御，马以代劳，皆养人者",
+     "source": "何晏《论语集解》引包咸",
+     "pages": [],
+     "paraphrase": false
+    },
+    {
+     "text": "世俗事亲，能养足矣。狎恩恃爱，而不知其渐流于不敬，则非小失也；子游圣门高弟，未必至此，圣人直恐其爱踰于敬，故以是深警发之也",
+     "source": "朱注引胡氏",
+     "pages": [
+      "28"
+     ],
+     "paraphrase": true
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "云子游問孝者，亦問行孝法也。",
+    "scan_page": "70"
+   }
+  },
+  {
+   "chapter": "2.8",
+   "title": "子夏问孝（色难）",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/8.html",
+   "text": "子夏问孝。子曰：色难。有事，弟子服其劳；有酒食，先生馔，曾是以为孝乎？",
+   "sentences": [
+    "子夏问孝。",
+    "子曰：色难。",
+    "有事，弟子服其劳；有酒食，先生馔，曾是以为孝乎？"
+   ],
+   "baihua": "子夏问孝。孔子说：难的是脸色。有事，年轻人替父兄去做；有酒饭，请父兄先吃，难道这样就算孝了吗？",
+   "citations": [
+    {
+     "text": "食，音嗣；食，饭也；先生，父兄也；馔，饮食之也；曾，犹尝也",
+     "source": "朱注",
+     "pages": [
+      "28"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "色难，谓事亲之际，惟色为难也；盖孝子之有深爱者，必有和气；有和气者，必有愉色；有愉色者，必有婉容；故事亲之际，惟色为难耳，服劳奉养未足为孝也",
+     "source": "朱注",
+     "pages": [
+      "28"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "旧说，承顺父母之色为难，亦通",
+     "source": "朱注",
+     "pages": [
+      "28"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "告懿子，告众人者也。告武伯者，以其人多可忧之事。子游能养，而或失于敬。子夏能直义，而或少温润之色。各因其材之高下，与其所失而告之，故不同也",
+     "source": "朱注引程子",
+     "pages": [
+      "28",
+      "29"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "云子夏問孝者，亦問行孝法也。",
+    "scan_page": "72"
+   }
+  },
+  {
+   "chapter": "2.9",
+   "title": "回也不愚",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/9.html",
+   "text": "子曰：吾与回言终日，不违如愚。退而省其私，亦足以发，回也不愚。",
+   "sentences": [
+    "子曰：吾与回言终日，不违如愚。",
+    "退而省其私，亦足以发，回也不愚。"
+   ],
+   "baihua": "孔子说：我和颜回讲一整天，他从不提反对的意见，像个笨人。他退下以后，我看他私下的言行，也足以把我讲的道理发挥出来。颜回不笨啊。",
+   "citations": [
+    {
+     "text": "回，孔子弟子，姓颜，字子渊；不违者，意不相背，有听受而无问难也；私，谓燕居独处，非进见请问之时；发，谓发明所言之理",
+     "source": "朱注",
+     "pages": [
+      "29"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "察其退还与二三子说释道义，发明大体，知其不愚",
+     "source": "何晏《论语集解》引孔安国",
+     "pages": [],
+     "paraphrase": true
+    },
+    {
+     "text": "愚闻之师曰：颜子深潜纯粹，其于圣人体段已具。其闻夫子之言，默识心融，触处洞然，自有条理。故终日言，但见其不违如愚之人而已。及退省其私，则见其日用动静语默之间，皆足以发明夫子之道",
+     "source": "朱注",
+     "pages": [
+      "29"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "云吾與回言終日不違如愚者，此章美顏淵之德也。",
+    "scan_page": "74"
+   }
+  },
+  {
+   "chapter": "2.10",
+   "title": "视其所以",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/10.html",
+   "text": "子曰：视其所以，观其所由，察其所安。人焉廋哉？人焉廋哉？",
+   "sentences": [
+    "子曰：视其所以，观其所由，察其所安。",
+    "人焉廋哉？",
+    "人焉廋哉？"
+   ],
+   "baihua": "孔子说：看他做什么，观察他为什么这样做，审察他心里乐于什么。这个人还能藏到哪里去呢？还能藏到哪里去呢？",
+   "citations": [
+    {
+     "text": "焉，何也；廋，匿也；重言以深明之",
+     "source": "朱注",
+     "pages": [
+      "29"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "以，为也。为善者为君子，为恶者为小人",
+     "source": "朱注",
+     "pages": [
+      "29"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "观比视为详矣。由，从也。事虽为善，而意之所从来者有未善焉，则亦不得为君子矣",
+     "source": "朱注",
+     "pages": [
+      "29"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "察则又加详矣。安，所乐也。所由虽善，而心之所乐者不在于是，则亦伪耳，岂能久而不变哉",
+     "source": "朱注",
+     "pages": [
+      "29"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "在己者能知言穷理，则能以此察人伦如圣人也",
+     "source": "朱注引程子",
+     "pages": [
+      "29"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "此章明觀知於人之法。",
+    "scan_page": "75"
+   }
+  },
+  {
+   "chapter": "2.11",
+   "title": "温故而知新",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/11.html",
+   "text": "子曰：温故而知新，可以为师矣。",
+   "sentences": [
+    "子曰：温故而知新，可以为师矣。"
+   ],
+   "baihua": "孔子说：温习旧有的知识，每次都能有新的体会，就可以做老师了。",
+   "citations": [
+    {
+     "text": "温，寻绎也",
+     "source": "朱注",
+     "pages": [
+      "30"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "故者，旧所闻；新者，今所得。言学能时习旧闻，而每有新得，则所学在我，而其应不穷，故可以为人师",
+     "source": "朱注",
+     "pages": [
+      "30"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "若夫记问之学，则无得于心，而所知有限，故学记讥其不足以为人师，正与此意互相发也",
+     "source": "朱注",
+     "pages": [
+      "30"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "温读如燖温之温",
+     "source": "邢昺疏引郑玄",
+     "pages": [],
+     "paraphrase": true
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "此章明為師之難也。",
+    "scan_page": "76"
+   }
+  },
+  {
+   "chapter": "2.12",
+   "title": "君子不器",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/12.html",
+   "text": "子曰：君子不器。",
+   "sentences": [
+    "子曰：君子不器。"
+   ],
+   "baihua": "孔子说：君子不像器具那样，只有一种用处。",
+   "citations": [
+    {
+     "text": "器者，各适其用而不能相通",
+     "source": "朱注",
+     "pages": [
+      "30"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "成德之士，体无不具，故用无不周，非特为一材一艺而已",
+     "source": "朱注",
+     "pages": [
+      "30"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "此章明君子之人不係守一業也。",
+    "scan_page": "77"
+   }
+  },
+  {
+   "chapter": "2.13",
+   "title": "先行其言",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/13.html",
+   "text": "子贡问君子。子曰：先行其言，而后从之。",
+   "sentences": [
+    "子贡问君子。",
+    "子曰：先行其言，而后从之。"
+   ],
+   "baihua": "子贡问怎样才是君子。孔子说：想说的话，先做到，然后再说出来。",
+   "citations": [
+    {
+     "text": "先行其言者，行之于未言之前；而后从之者，言之于既行之后",
+     "source": "朱注引周氏",
+     "pages": [
+      "30"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "子贡之患，非言之艰而行之艰，故告之以此",
+     "source": "朱注引范氏",
+     "pages": [
+      "30"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "云子貢問君子者，問施何德行而可謂為君子乎？",
+    "scan_page": "77"
+   }
+  },
+  {
+   "chapter": "2.14",
+   "title": "周而不比",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/14.html",
+   "text": "子曰：君子周而不比，小人比而不周。",
+   "sentences": [
+    "子曰：君子周而不比，小人比而不周。"
+   ],
+   "baihua": "孔子说：君子普遍地和人亲近，不结私党；小人结私党，不能普遍和人亲近。",
+   "citations": [
+    {
+     "text": "比，必二反；周，普徧也。比，偏党也",
+     "source": "朱注",
+     "pages": [
+      "30"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "皆与人亲厚之意，但周公而比私耳；君子小人所为不同，如阴阳昼夜，每每相反。然究其所以分，则在公私之际，毫釐之差耳",
+     "source": "朱注",
+     "pages": [
+      "30"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "故圣人于周比、和同、骄泰之属，常对举而互言之，欲学者察乎两间，而审其取舍之几也",
+     "source": "朱注",
+     "pages": [
+      "30"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "此章明君子行與小人異也。",
+    "scan_page": "78"
+   }
+  },
+  {
+   "chapter": "2.15",
+   "title": "学而不思则罔",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/15.html",
+   "text": "子曰：学而不思则罔，思而不学则殆。",
+   "sentences": [
+    "子曰：学而不思则罔，思而不学则殆。"
+   ],
+   "baihua": "孔子说：只学习不思考，就会迷惘无所得；只思考不学习，就会危殆不安。",
+   "citations": [
+    {
+     "text": "不求诸心，故昏而无得。不习其事，故危而不安",
+     "source": "朱注",
+     "pages": [
+      "30"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "博学、审问、慎思、明辨、笃行五者，废其一，非学也",
+     "source": "朱注引程子",
+     "pages": [
+      "30",
+      "31"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "此章教學法也。",
+    "scan_page": "79"
+   }
+  },
+  {
+   "chapter": "2.16",
+   "title": "攻乎异端",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/16.html",
+   "text": "子曰：攻乎异端，斯害也已。",
+   "sentences": [
+    "子曰：攻乎异端，斯害也已。"
+   ],
+   "baihua": "孔子说：专门去钻研偏离正道的学说，这就有害了。（照朱熹所引范祖禹、程子的读法。）",
+   "citations": [
+    {
+     "text": "攻，专治也，故治木石金玉之工曰攻",
+     "source": "朱注引范氏",
+     "pages": [
+      "31"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "异端，非圣人之道，而别为一端，如杨墨是也。其率天下至于无父无君，专治而欲精之，为害甚矣",
+     "source": "朱注引范氏",
+     "pages": [
+      "31"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "佛氏之言，比之杨墨，尤为近理，所以其害为尤甚。学者当如淫声美色以远之，不尔，则骎骎然入于其中矣",
+     "source": "朱注引程子",
+     "pages": [
+      "31"
+     ],
+     "paraphrase": true
+    },
+    {
+     "text": "攻＝攻击、已＝止一说",
+     "source": "刘宝楠《论语正义》所记宋人孙奕《示儿编》说",
+     "pages": [
+      "52"
+     ],
+     "paraphrase": true
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "此章禁人雜學諸子百家之書也。",
+    "scan_page": "80"
+   }
+  },
+  {
+   "chapter": "2.17",
+   "title": "知之为知之",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/17.html",
+   "text": "子曰：由！诲女知之乎？知之为知之，不知为不知，是知也。",
+   "sentences": [
+    "子曰：由！",
+    "诲女知之乎？",
+    "知之为知之，不知为不知，是知也。"
+   ],
+   "baihua": "孔子说：仲由，我教你怎样才是知道吧！知道就是知道，不知道就是不知道，这才是真知道。",
+   "citations": [
+    {
+     "text": "女，音汝；由，孔子弟子，姓仲，字子路",
+     "source": "朱注",
+     "pages": [
+      "31"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "子路好勇，盖有强其所不知以为知者，故夫子告之曰：我教女以知之之道乎！但所知者则以为知，所不知者则以为不知",
+     "source": "朱注",
+     "pages": [
+      "31"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "如此则虽或不能尽知，而无自欺之蔽，亦不害其为知矣。况由此而求之，又有可知之理乎",
+     "source": "朱注",
+     "pages": [
+      "31"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "此章抑子路兼人也。",
+    "scan_page": "81"
+   }
+  },
+  {
+   "chapter": "2.18",
+   "title": "子张学干禄",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/18.html",
+   "text": "子张学干禄。子曰：多闻阙疑，慎言其余，则寡尤；多见阙殆，慎行其余，则寡悔。言寡尤，行寡悔，禄在其中矣。",
+   "sentences": [
+    "子张学干禄。",
+    "子曰：多闻阙疑，慎言其余，则寡尤；多见阙殆，慎行其余，则寡悔。",
+    "言寡尤，行寡悔，禄在其中矣。"
+   ],
+   "baihua": "子张要学求官禄。孔子说：多听，有疑问的先放一边，其余有把握的也谨慎地说，就少招人责怪；多看，心里不安的先放一边，其余有把握的也谨慎地做，就少后悔。说话少招责怪，做事少后悔，官禄就在这里面了。",
+   "citations": [
+    {
+     "text": "子张，孔子弟子，姓颛孙，名师。干，求也。禄，仕者之奉也；行寡之行，去声",
+     "source": "朱注",
+     "pages": [
+      "31"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "疑者所未信，殆者所未安",
+     "source": "朱注引吕氏",
+     "pages": [
+      "31",
+      "32"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "尤，罪自外至者也。悔，理自内出者也",
+     "source": "朱注引程子",
+     "pages": [
+      "32"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "愚谓多闻见者学之博，阙疑殆者择之精，慎言行者守之约",
+     "source": "朱熹“愚谓”",
+     "pages": [
+      "32"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "凡言在其中者，皆不求而自至之辞",
+     "source": "朱熹“愚谓”",
+     "pages": [
+      "32"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "修天爵则人爵至；子张学干禄，故告之以此，使定其心而不为利禄动",
+     "source": "朱注引程子",
+     "pages": [
+      "32"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "或疑如此亦有不得禄者，孔子盖曰耕也馁在其中，惟理可为者为之而已矣（原页程子引文无“矣”；片中“耕也馁在其中矣”作孔子原话说，出《卫灵公》）",
+     "source": "朱注引程子",
+     "pages": [
+      "32"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "云子張學干祿者，干，求也；祿，祿位也。",
+    "scan_page": "82"
+   }
+  },
+  {
+   "chapter": "2.19",
+   "title": "举直错诸枉",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/19.html",
+   "text": "哀公问曰：何为则民服？孔子对曰：举直错诸枉，则民服；举枉错诸直，则民不服。",
+   "sentences": [
+    "哀公问曰：何为则民服？",
+    "孔子对曰：举直错诸枉，则民服；举枉错诸直，则民不服。"
+   ],
+   "baihua": "鲁哀公问：怎样做才能让百姓服从？孔子回答：提拔正直的人，放下那些不正直的人，百姓就服；提拔不正直的人，放下正直的人，百姓就不服。",
+   "citations": [
+    {
+     "text": "哀公，鲁君，名蒋。凡君问，皆称孔子对曰者，尊君也。错，舍置也。诸，众也",
+     "source": "朱注",
+     "pages": [
+      "32"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "举错得宜，则人心服",
+     "source": "朱注引程子",
+     "pages": [
+      "32"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "好直而恶枉，天下之至情也。顺之则服，逆之则去，必然之理也",
+     "source": "朱注引谢氏",
+     "pages": [
+      "32"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "然或无道以照之，则以直为枉，以枉为直者多矣，是以君子大居敬而贵穷理也",
+     "source": "朱注引谢氏",
+     "pages": [
+      "32"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "云哀公問曰何為則民服者，哀公失德，民不服從而公患之，故問孔子求民服之法也。",
+    "scan_page": "84"
+   }
+  },
+  {
+   "chapter": "2.20",
+   "title": "临之以庄则敬",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/20.html",
+   "text": "季康子问：使民敬、忠以劝，如之何？子曰：临之以庄则敬，孝慈则忠，举善而教不能则劝。",
+   "sentences": [
+    "季康子问：使民敬、忠以劝，如之何？",
+    "子曰：临之以庄则敬，孝慈则忠，举善而教不能则劝。"
+   ],
+   "baihua": "季康子问：要让百姓恭敬、忠诚、勉力向善，该怎么做？孔子说：你以庄重的态度对待他们，他们就恭敬；你孝顺父母、慈爱百姓，他们就忠诚；你提拔好人，教导能力差的人，他们就会受到勉励，乐于向善。",
+   "citations": [
+    {
+     "text": "季康子，鲁大夫季孙氏，名肥。庄，谓容貌端严也。临民以庄，则民敬于己。孝于亲，慈于众，则民忠于己。善者举之而不能者教之，则民有所劝而乐于为善",
+     "source": "朱注",
+     "pages": [
+      "32",
+      "33"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "此皆在我所当为，非为欲使民敬忠以劝而为之也。然能如是，则其应盖有不期然而然者矣",
+     "source": "朱注引张敬夫",
+     "pages": [
+      "33"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "云季康子問云云者，季康子魯臣也。",
+    "scan_page": "85"
+   }
+  },
+  {
+   "chapter": "2.21",
+   "title": "子奚不为政",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/21.html",
+   "text": "或谓孔子曰：子奚不为政？子曰：书云：孝乎！惟孝友于兄弟，施于有政。是亦为政，奚其为为政？",
+   "sentences": [
+    "或谓孔子曰：子奚不为政？",
+    "子曰：书云：孝乎！",
+    "惟孝友于兄弟，施于有政。",
+    "是亦为政，奚其为为政？"
+   ],
+   "baihua": "有人对孔子说：您为什么不从政呢？孔子说：《尚书》上说，孝啊！只要孝顺父母、友爱兄弟，再把这种风气推到政事上。这也就是从政了，为什么一定要做官才算从政呢？",
+   "citations": [
+    {
+     "text": "定公初年，孔子不仕，故或人疑其不为政也",
+     "source": "朱注",
+     "pages": [
+      "33"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "书，周书君陈篇。书云孝乎者，言书之言孝如此也。善兄弟曰友",
+     "source": "朱注",
+     "pages": [
+      "33"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "书言君陈能孝于亲，友于兄弟，又能推广此心，以为一家之政。孔子引之，言如此则是亦为政矣，何必居位乃为为政乎",
+     "source": "朱注",
+     "pages": [
+      "33"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "盖孔子之不仕，有难以语或人者，故托此以告之，要之至理亦不外是",
+     "source": "朱注",
+     "pages": [
+      "33"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "云或謂云云者，或者或有一人不記其姓名也。",
+    "scan_page": "86"
+   }
+  },
+  {
+   "chapter": "2.22",
+   "title": "人而无信",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/22.html",
+   "text": "子曰：人而无信，不知其可也。大车无輗，小车无軏，其何以行之哉？",
+   "sentences": [
+    "子曰：人而无信，不知其可也。",
+    "大车无輗，小车无軏，其何以行之哉？"
+   ],
+   "baihua": "孔子说：一个人不讲信用，不知道他还能做什么。大车没有輗，小车没有軏，靠什么走呢？",
+   "citations": [
+    {
+     "text": "輗，五兮反；軏，音月",
+     "source": "朱注",
+     "pages": [
+      "33"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "大车，谓平地任载之车。輗，辕端横木，缚轭以驾牛者。小车，谓田车、兵车、乘车。軏，辕端上曲，钩衡以驾马者",
+     "source": "朱注",
+     "pages": [
+      "33"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "车无此二者，则不可以行，人而无信，亦犹是也",
+     "source": "朱注",
+     "pages": [
+      "33"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "此章明人不可失信也。",
+    "scan_page": "88"
+   }
+  },
+  {
+   "chapter": "2.23",
+   "title": "十世可知",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/23.html",
+   "text": "子张问：十世可知也？子曰：殷因于夏礼，所损益，可知也；周因于殷礼，所损益，可知也。其或继周者，虽百世，可知也。",
+   "sentences": [
+    "子张问：十世可知也？",
+    "子曰：殷因于夏礼，所损益，可知也；周因于殷礼，所损益，可知也。",
+    "其或继周者，虽百世，可知也。"
+   ],
+   "baihua": "子张问：十代以后的事，能预先知道吗？孔子说：殷继承夏的礼，增减了什么，是可以知道的；周继承殷的礼，增减了什么，也是可以知道的。将来如果有继承周的，就是一百代以后，也是可以知道的。",
+   "citations": [
+    {
+     "text": "也，一作乎",
+     "source": "朱注引陆氏",
+     "pages": [
+      "33",
+      "34"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "王者易姓受命为一世。子张问自此以后十世之事，可前知乎",
+     "source": "朱注",
+     "pages": [
+      "34"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "所因，谓三纲五常；所损益，谓文质三统",
+     "source": "朱注引马氏",
+     "pages": [
+      "34"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "三纲五常，礼之大体……其所损益，不过文章制度小过不及之间（节引）",
+     "source": "朱熹“愚按”",
+     "pages": [
+      "34"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "子张之问，盖欲知来，而圣人言其既往者以明之也",
+     "source": "朱注引胡氏",
+     "pages": [
+      "34"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "商不能改乎夏，周不能改乎商；制度文为，或太过则当损，或不足则当益；因往推来，虽百世之远，不过如此而已矣（三处节引）",
+     "source": "朱注引胡氏",
+     "pages": [
+      "34",
+      "35"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "圣人所以知来者盖如此，非若后世谶纬术数之学也",
+     "source": "朱熹“愚按”",
+     "pages": [
+      "34"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "云子張問十世可知也者，十世謂十代也。",
+    "scan_page": "90"
+   }
+  },
+  {
+   "chapter": "2.24",
+   "title": "非其鬼而祭之",
+   "url": "https://yikonglu.com/lunyu/wei-zheng/24.html",
+   "text": "子曰：非其鬼而祭之，谄也。见义不为，无勇也。",
+   "sentences": [
+    "子曰：非其鬼而祭之，谄也。",
+    "见义不为，无勇也。"
+   ],
+   "baihua": "孔子说：不是自己应当祭祀的鬼神，却去祭祀，这是谄媚。看到应该做的事却不去做，这是没有勇气。",
+   "citations": [
+    {
+     "text": "非其鬼，谓非其所当祭之鬼。谄，求媚也",
+     "source": "朱注",
+     "pages": [
+      "35"
+     ],
+     "paraphrase": false
+    },
+    {
+     "text": "知而不为，是无勇也",
+     "source": "朱注",
+     "pages": [
+      "35"
+     ],
+     "paraphrase": false
+    }
+   ],
+   "huangkan_first_line": {
+    "text": "云非其鬼而祭之諂也者，諂，橫求也。",
+    "scan_page": "94"
+   }
+  }
+ ]
+}
