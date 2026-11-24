@@ -80,9 +80,66 @@ configs:
 
 ## 引用
 
+引用整份数据集，可任选一种格式（GitHub 页面右侧的“Cite this repository”也能直接复制，内容来自本仓库的 `CITATION.cff`）：
+
 ```
-一孔录. 一孔录《论语》逐章开放数据. https://yikonglu.com/kaifang.html
+一孔录. 一孔录《论语》逐章开放数据[DS/OL]. 2026. https://yikonglu.com/kaifang.html
 ```
+
+```
+Yikonglu. (2026). Yikonglu Analects open data [Data set]. https://yikonglu.com/kaifang.html
+```
+
+```bibtex
+@misc{yikonglu_lunyu_2026,
+  author       = {{一孔录 Yikonglu}},
+  title        = {一孔录《论语》逐章开放数据 Yikonglu Analects Open Data},
+  year         = {2026},
+  howpublished = {\url{https://yikonglu.com/kaifang.html}},
+  note         = {CC BY 4.0. 数据仓库 https://github.com/davidokant/yikonglu-data}
+}
+```
+
+### 引用某一章
+
+引用某一章的原文、白话或注文出处时，请附该章的章页链接，读者点进去就能看到原文、读音、白话和朱注原页。章页网址的格式是：
+
+```
+https://yikonglu.com/lunyu/<篇>/<章>.html
+```
+
+CSV 的“网址”列、JSON 里每章的 `url` 字段就是这个链接，直接复制即可。例如：
+
+```
+一孔录.《论语·学而》1.1 学而时习之[EB/OL]. https://yikonglu.com/lunyu/xue-er/1.html
+```
+
+英文版、日文版章页在路径前加 `/en`、`/ja`，例如 <https://yikonglu.com/en/lunyu/xue-er/1.html>。
+
+篇名与网址里的写法：
+
+| 篇次 | 篇名 | 网址里写作 |
+|---|---|---|
+| 1 | 学而 | `xue-er` |
+| 2 | 为政 | `wei-zheng` |
+| 3 | 八佾 | `ba-yi` |
+| 4 | 里仁 | `li-ren` |
+| 5 | 公冶长 | `gong-ye-chang` |
+| 6 | 雍也 | `yong-ye` |
+| 7 | 述而 | `shu-er` |
+| 8 | 泰伯 | `tai-bo` |
+| 9 | 子罕 | `zi-han` |
+| 10 | 乡党 | `xiang-dang` |
+| 11 | 先进 | `xian-jin` |
+| 12 | 颜渊 | `yan-yuan` |
+| 13 | 子路 | `zi-lu` |
+| 14 | 宪问 | `xian-wen` |
+| 15 | 卫灵公 | `wei-ling-gong` |
+| 16 | 季氏 | `ji-shi` |
+| 17 | 阳货 | `yang-huo` |
+| 18 | 微子 | `wei-zi` |
+| 19 | 子张 | `zi-zhang` |
+| 20 | 尧曰 | `yao-yue` |
 
 发现错处请按网站页尾邮箱来信，核实后记入勘误页 <https://yikonglu.com/kanwu.html>，署你的网名。
 

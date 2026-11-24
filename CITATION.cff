@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "转用请署“一孔录 yikonglu.com”并附原章网址。If you use this data, please cite it as below and link to the chapter page you quote (https://yikonglu.com/lunyu/<pian>/<chapter>.html)."
+title: "一孔录《论语》逐章开放数据 Yikonglu Analects Open Data"
+type: dataset
+authors:
+  - name: "一孔录 Yikonglu"
+    website: "https://yikonglu.com"
+url: "https://yikonglu.com/kaifang.html"
+repository-code: "https://github.com/davidokant/yikonglu-data"
+license: CC-BY-4.0
+date-released: "2026-11-21"
+keywords:
+  - analects
+  - lunyu
+  - confucius
+  - classical-chinese
+  - digital-humanities
